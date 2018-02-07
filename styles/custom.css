@@ -1,0 +1,75 @@
+body {
+	background-color: white;
+	/*background-image: url(../img/light.png);*/
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.intro {
+	/*background-color: grey;*/
+	background-color: #cc7161 ;
+}
+.what {
+	/*background-color: oldlace;*/
+	background-color: 	#db8070;
+}
+.background {
+	background-color: darkslategrey;
+	border: 50px solid;
+  	border-image: linear-gradient(#f9dac0,#db8070 ) 10;
+
+}
+.skill {
+	/*background-color: mintcream;*/
+	background-color: #f9dac0;
+	border: 50px solid;
+  	border-image: linear-gradient(#db8070,#cc7161) 10;
+}
+.where {
+	/*background-color: darkslategray;*/
+	background-color:#ffead8;
+	
+}
+.contact {
+	background-color:#b5c5a9;
+}
+.container-fluid {
+	padding-top: 80px;
+	padding-bottom: 80px;
+}
+p {
+	color: darkslategrey;
+}
+h2 {
+	color: darkslategrey;
+}
+.map {
+	border: white 2px solid;
+	border-radius: 15px;
+}
+.contact li{
+	list-style-type: none;
+	display: inline-block;
+	text-align: center;
+	padding-right: 25px;
+}
+.social {
+	margin-left: 0%;
+}
+#footer {
+	background-color: blanchedalmond; 
+	border-top: solid white 5px;
+	height: 3em;
+	text-align: center;
+
+}
+/*.hire {
+	background-color: blanchedalmond;
+	float: right;
+	margin-right:50%; 
+	background-color: white; 
+	width: 40%; 
+	height: 70px;
+}
+.hire h4 {
+	padding-top: 50px;
+}*/

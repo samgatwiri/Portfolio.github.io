@@ -1,0 +1,79 @@
+body {
+	background-color: black;
+background: -webkit-linear-gradient(oldlace,white); 
+background: -o-linear-gradient(oldlace,white); 
+background: -moz-linear-gradient(oldlace,white);
+background: linear-gradient(oldlace,white);
+
+}
+.intro {
+	background-color: #cc7161 ;
+	/*background-color: #90678c;*/
+	max-width: 70%;
+	max-height: 50%;
+	border-radius: 50px;
+
+}
+.what {
+	background-color: 	#db8070;
+	/*background-color: #1a9c99;*/
+	border-radius: 50px;
+}
+.background {
+	background-color: darkslategrey;
+	/*border: 50px solid;
+  	border-image: linear-gradient(#f9dac0,#db8070 ) 10;*/
+  	margin-bottom: : auto;
+  	border-radius: 50px;
+
+}
+.random {
+	display: inline-block;
+	
+}
+.skill {
+	/*background-color: mintcream;*/
+	background-color: #f9dac0;
+  	border-radius: 50px;
+}
+.where {
+	/*background-color:lightcoral;*/
+	background-color: transparent;
+	max-width: 100%;
+	max-height: 40%;
+	
+}
+.contact {
+	background-color:#b5c5a9;
+	/*background-color: #f1eada;*/
+	border-radius: 50px;
+}
+
+.contact li{
+	list-style-type: none;
+	display: inline-block;
+	text-align: center;
+	padding-right: 25px;
+}	
+.intro,.what,.background,.skill,.where,.contact {
+	padding-top: 80px;
+	padding-bottom: 80px;
+
+}
+p {
+	color: darkslategrey;
+}
+h2 {
+	color: darkslategrey;
+}
+.map {
+	border: white 2px solid;
+	border-radius: 15px;
+}
+.footer {
+	background-color: #b5c5a9; 
+	/*border-top: solid white 1px;*/
+	height: 4em;
+	text-align: left;
+	color: white;}
+
